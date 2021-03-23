@@ -1,0 +1,1 @@
+web: gunicorn woowtlcv2.wsgi
